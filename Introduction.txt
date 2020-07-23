@@ -1,0 +1,4 @@
+数据集共有三个 按照测试集训练集大小划分 data_set data_set_1000train data_set_5000train
+主程序是诊断程序 Diagnosis complete 与检测程序 Detect_complete包含机器学习的分类算法与调用lstm的扩展程序
+lstm扩展程序是lstm_softmax_super 与 Detect_NLSTM
+nlstm程序nested_lstm 以及其更改return_sequences的nested_lstm_True
